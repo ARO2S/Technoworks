@@ -239,8 +239,25 @@ body{
       padding: 8px 16px;
       border: 1px solid #BA002F;
       color: white;
+      position: absolute;
+      float: left;
+      left: 0;
     }
     .previous-round a {
+      text-decoration: none;
+      display: inline-block;
+      padding: 1em;
+    }
+    .next-round {
+      font-size: 20px;
+      padding: 8px 16px;
+      border: 1px solid #BA002F;
+      color: white;
+      position: absolute;
+      float: right;
+      right: 0;
+    }
+    .next-round a {
       text-decoration: none;
       display: inline-block;
       padding: 1em;
