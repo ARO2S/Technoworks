@@ -6,13 +6,9 @@ FN:Technoworks
 ORG:Technoworks;
 EMAIL;type=INTERNET;type=HOME;type=pref:info@technoworks.com
 TEL;type=WORK;type=VOICE;type=pref:(574) 206-4250
-TEL;type=WORK;type=VOICE:(574) 206-4250
 ADR;type=HOME;type=pref:;;24615 Co Rd 45 Suite #1;Elkhart;IN;46516;
-ADR;type=HOME:;;24615 Co Rd 45 Suite #1;Elkhart;IN;46516;
 item1.URL;type=pref:www.technoworks.com/
 item1.X-ABLabel:_$!<HomePage>!$_
-item2.URL:www.technoworks.com/
-item2.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAASABIAAD/4QBMRXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABIaADAAQAAAABAA
  ABJQAAAAD/7QA4UGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAAA4QklNBCUAAAAAABDUHYzZjwCy
